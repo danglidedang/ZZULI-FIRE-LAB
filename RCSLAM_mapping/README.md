@@ -3,7 +3,9 @@
 RC-SLAM
 =======
 
-RC-SLAM: Normal-Guided Implicit Neural SLAM
+《Enhancing LiDAR SLAM Global Consistency via Normal-Guided Implicit Neural Representation》
+
+Submitting to The Visual Computer journal
 
 RC-SLAM is a SLAM system that integrates normal-guided pre-reconstruction and IMU-based optimization into an implicit neural mapping framework. It improves 3D reconstruction accuracy, consistency, and robustness. The system introduces geometric priors via normal constraints, fuses IMU data to correct LiDAR drift, and adopts hierarchical feature encoding for scalable mapping.
 
